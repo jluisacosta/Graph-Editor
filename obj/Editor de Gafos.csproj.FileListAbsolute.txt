@@ -1,0 +1,62 @@
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos\Editor de Gafos\Editor de Gafos\bin\Debug\Editor de Gafos.exe
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos\Editor de Gafos\Editor de Gafos\bin\Debug\Editor de Gafos.pdb
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DIso.resources
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.EditorGrafos.resources
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.Properties.Resources.resources
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.Propiedades.resources
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor de Gafos.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor de Gafos.exe
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor de Gafos.pdb
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DConteo.resources
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DAddPeso.resources
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DDFloyd.resources
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DDijkstra.resources
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DPideVert.resources
+C:\Documents and Settings\José Luis\Mis documentos\Editor de Grafos\Editor de Gafos\Editor de Gafos\bin\Debug\Editor de Gafos.exe
+C:\Documents and Settings\José Luis\Mis documentos\Editor de Grafos\Editor de Gafos\Editor de Gafos\bin\Debug\Editor de Gafos.pdb
+C:\Documents and Settings\José Luis\Mis documentos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\José Luis\Mis documentos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DAddPeso.resources
+C:\Documents and Settings\José Luis\Mis documentos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DConteo.resources
+C:\Documents and Settings\José Luis\Mis documentos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DDFloyd.resources
+C:\Documents and Settings\José Luis\Mis documentos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DDijkstra.resources
+C:\Documents and Settings\José Luis\Mis documentos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DIso.resources
+C:\Documents and Settings\José Luis\Mis documentos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DPideVert.resources
+C:\Documents and Settings\José Luis\Mis documentos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.EditorGrafos.resources
+C:\Documents and Settings\José Luis\Mis documentos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.Properties.Resources.resources
+C:\Documents and Settings\José Luis\Mis documentos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.Propiedades.resources
+C:\Documents and Settings\José Luis\Mis documentos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor de Gafos.csproj.GenerateResource.Cache
+C:\Documents and Settings\José Luis\Mis documentos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor de Gafos.exe
+C:\Documents and Settings\José Luis\Mis documentos\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor de Gafos.pdb
+C:\Documents and Settings\José Luis\Mis documentos\UASLP\Editor de Grafos\Editor de Gafos\Editor de Gafos\bin\Debug\Editor de Gafos.exe
+C:\Documents and Settings\José Luis\Mis documentos\UASLP\Editor de Grafos\Editor de Gafos\Editor de Gafos\bin\Debug\Editor de Gafos.pdb
+C:\Documents and Settings\José Luis\Mis documentos\UASLP\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\José Luis\Mis documentos\UASLP\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DAddPeso.resources
+C:\Documents and Settings\José Luis\Mis documentos\UASLP\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DConteo.resources
+C:\Documents and Settings\José Luis\Mis documentos\UASLP\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DDFloyd.resources
+C:\Documents and Settings\José Luis\Mis documentos\UASLP\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DDijkstra.resources
+C:\Documents and Settings\José Luis\Mis documentos\UASLP\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DIso.resources
+C:\Documents and Settings\José Luis\Mis documentos\UASLP\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DPideVert.resources
+C:\Documents and Settings\José Luis\Mis documentos\UASLP\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.EditorGrafos.resources
+C:\Documents and Settings\José Luis\Mis documentos\UASLP\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.Properties.Resources.resources
+C:\Documents and Settings\José Luis\Mis documentos\UASLP\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.Propiedades.resources
+C:\Documents and Settings\José Luis\Mis documentos\UASLP\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor de Gafos.csproj.GenerateResource.Cache
+C:\Documents and Settings\José Luis\Mis documentos\UASLP\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor de Gafos.exe
+C:\Documents and Settings\José Luis\Mis documentos\UASLP\Editor de Grafos\Editor de Gafos\Editor de Gafos\obj\Debug\Editor de Gafos.pdb
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos (Final)\Editor de Gafos\Editor de Gafos\obj\Debug\Editor de Gafos.exe
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos (Final)\Editor de Gafos\Editor de Gafos\obj\Debug\Editor de Gafos.pdb
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos (Final)\Editor de Gafos\Editor de Gafos\bin\Debug\Editor de Gafos.exe
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos (Final)\Editor de Gafos\Editor de Gafos\bin\Debug\Editor de Gafos.pdb
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos (Final)\Editor de Gafos\Editor de Gafos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos (Final)\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DAddPeso.resources
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos (Final)\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DConteo.resources
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos (Final)\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DDFloyd.resources
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos (Final)\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DDijkstra.resources
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos (Final)\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DIso.resources
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos (Final)\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.DPideVert.resources
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos (Final)\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.EditorGrafos.resources
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos (Final)\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.Properties.Resources.resources
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos (Final)\Editor de Gafos\Editor de Gafos\obj\Debug\Editor_de_Gafos.Propiedades.resources
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos (Final)\Editor de Gafos\Editor de Gafos\obj\Debug\Editor de Gafos.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos (Final) Acosta Zamora\Editor de Gafos\Editor de Gafos\obj\Debug\Editor de Gafos.exe
+C:\Documents and Settings\Jose Luis\Mis documentos\Mis archivos\Grafos\Editor de Grafos (Final) Acosta Zamora\Editor de Gafos\Editor de Gafos\obj\Debug\Editor de Gafos.pdb

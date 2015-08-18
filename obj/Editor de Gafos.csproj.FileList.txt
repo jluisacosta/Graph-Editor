@@ -1,0 +1,10 @@
+bin\Debug\Editor de Gafos.exe
+bin\Debug\Editor de Gafos.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Editor_de_Gafos.DIso.resources
+obj\Debug\Editor_de_Gafos.EditorGrafos.resources
+obj\Debug\Editor_de_Gafos.Properties.Resources.resources
+obj\Debug\Editor_de_Gafos.Propiedades.resources
+obj\Debug\Editor de Gafos.csproj.GenerateResource.Cache
+obj\Debug\Editor de Gafos.exe
+obj\Debug\Editor de Gafos.pdb
